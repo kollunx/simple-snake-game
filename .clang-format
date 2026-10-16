@@ -1,0 +1,6 @@
+---
+BasedOnStyle: LLVM
+AllowShortFunctionsOnASingleLine: Inline
+NamespaceIndentation: All
+ColumnLimit: 120
+...

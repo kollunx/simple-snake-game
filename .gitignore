@@ -1,0 +1,12 @@
+# IDE
+.vscode/
+.vs/
+.idea/
+
+# build
+build/
+
+# Artifacts
+.DS_Store
+compile_commands.json
+.cache/
